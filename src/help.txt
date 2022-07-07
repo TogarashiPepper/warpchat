@@ -1,0 +1,5 @@
+[!delete <query>]: deletes messages by you that match <query> 
+[!search <query>]: searches for a giphy GIF
+[!help]: brings up this help page
+[!open]: opens up the messages in a web page (for clickable links)
+[!clear]: deletes all messages sent by you

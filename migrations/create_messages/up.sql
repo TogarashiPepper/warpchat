@@ -1,0 +1,4 @@
+CREATE TABLE posts (
+  id SERIAL PRIMARY KEY,
+  msg TEXT NOT NULL
+)
